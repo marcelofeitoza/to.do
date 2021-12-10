@@ -1,6 +1,5 @@
 import React from "react";
 import { Image, StyleSheet, Text, View } from "react-native";
-
 import logoImg from "../assets/logo/logo.png";
 
 interface HeaderProps {
